@@ -1,0 +1,1 @@
+const stu = fetch(student.json);
